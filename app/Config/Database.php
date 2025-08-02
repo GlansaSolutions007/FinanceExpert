@@ -27,9 +27,9 @@ class Database extends Config
     public array $default = [
         'DSN'      => '',
         'hostname' => 'localhost',
-        'username' => 'root',
-        'password' => '',
-        'database' => 'glansxfz_fe',
+        'username' => 'glansadesigns_finance',
+        'password' => 'glansadesigns_finance',
+        'database' => 'glansadesigns_finance',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,
