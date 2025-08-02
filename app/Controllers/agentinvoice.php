@@ -112,7 +112,7 @@ namespace App\Controllers;
 
         // Set email parameters
         $email->setTo($to);
-        $email->setFrom('soumya05ranjan@gmail.com', 'FinExpert');
+        $email->setFrom('finexperts@glansadesigns.com', 'FinExpert');
         $email->setSubject('Invoice PDF Attached');
         $email->setMessage("Please find the attached invoice PDF.");
 

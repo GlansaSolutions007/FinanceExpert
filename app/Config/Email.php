@@ -43,7 +43,7 @@ class Email extends BaseConfig
     /**
      * SMTP Port
      */
-    public  $SMTPPort = 587;
+    public  $SMTPPort = 465;
 
     /**
      * SMTP Timeout (in seconds)
@@ -58,7 +58,7 @@ class Email extends BaseConfig
     /**
      * SMTP Encryption. Either tls or ssl
      */
-    public  $SMTPCrypto = 'tls';
+    public  $SMTPCrypto = 'ssl';
 
     /**
      * Enable word-wrap

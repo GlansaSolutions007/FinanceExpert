@@ -4,6 +4,7 @@
 # Ignore vendor and other dependencies
 /vendor/
 /node_modules/
+/app/Config/App.php
 
 # Ignore system files
 Thumbs.db

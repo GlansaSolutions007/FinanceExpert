@@ -24,7 +24,7 @@ class ForgotPasswordController extends Controller
 
         // Set the email parameters
         $emailLibrary->setTo($email);
-        $emailLibrary->setFrom('anita.glansa@gmail.com', 'Anita');
+        $emailLibrary->setFrom('finexperts@glansadesigns.com', 'FinanceExpert');
         $emailLibrary->setSubject('Your Password Reminder');
         $emailLibrary->setMessage('Your password is: ' . $password);
 
