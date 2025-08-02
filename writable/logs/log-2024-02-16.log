@@ -1,0 +1,7 @@
+CRITICAL - 2024-02-16 06:05:44 --> Undefined array key 7
+in APPPATH/Controllers/ExcelController.php on line 100.
+ 1 APPPATH/Controllers/ExcelController.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 7', '/home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php', 100)
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ExcelController->importExcelToDb()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

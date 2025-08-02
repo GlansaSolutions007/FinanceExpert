@@ -1,0 +1,879 @@
+WARNING - 2023-11-25 04:10:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$staff is deprecated in APPPATH/Controllers/Home.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 04:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 04:10:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 04:10:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$staff is deprecated in APPPATH/Controllers/Home.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 04:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 04:10:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 04:10:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 04:10:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 04:10:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 04:30:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 04:30:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 04:30:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 04:57:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 04:57:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 04:57:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 04:57:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 04:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 04:57:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 04:59:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 04:59:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 04:59:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 04:59:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 04:59:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 04:59:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 04:59:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 04:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 04:59:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 04:59:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 04:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 04:59:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 04:59:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 04:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 04:59:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:00:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 05:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 05:00:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:00:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 05:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 05:00:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:02:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 05:02:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 05:02:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:02:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:02:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 05:02:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 05:02:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:21:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:21:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 05:21:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 05:21:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:25:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:25:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 05:25:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 05:25:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:30:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:30:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 05:30:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 05:30:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:31:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:31:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 05:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 05:31:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:32:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:32:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 05:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 05:32:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:32:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:32:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 05:32:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 05:32:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:33:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:33:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 05:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 05:33:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:33:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 05:33:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 05:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 05:33:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 06:57:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 06:57:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 06:57:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:02:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:02:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:02:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:02:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:02:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:02:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:02:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:02:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:02:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:02:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:02:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:02:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:13:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:13:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:13:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:13:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:13:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:14:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:14:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:14:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:14:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:14:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:17:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:17:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:17:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:17:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:17:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:18:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:18:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:18:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:18:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:18:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:19:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:19:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:19:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:19:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:19:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:20:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:20:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:20:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:20:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:20:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:20:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:21:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:21:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:21:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:21:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:21:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:23:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:24:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:24:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:24:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:24:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:24:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:24:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:24:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:24:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:24:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:25:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:25:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:25:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:25:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:25:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:25:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:30:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:30:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:30:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:30:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:30:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:30:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:30:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-25 07:30:12 --> Undefined constant "App\Controllers\role"
+in APPPATH/Controllers/staffadmin.php on line 122.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\staffadmin->update()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\staffadmin))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:30:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:30:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:30:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:30:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:30:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:30:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:31:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:31:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:32:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:32:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:32:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:32:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:32:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:32:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:32:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:32:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:36:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:36:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:36:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:36:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:36:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:36:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:36:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:36:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:36:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:36:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:36:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:36:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:36:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:36:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:36:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:36:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:37:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\paymentcontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:37:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\paymentcontroller::$emiModel is deprecated in APPPATH/Controllers/paymentcontroller.php on line 35.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\paymentcontroller->issueCapital()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\paymentcontroller))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:38:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\paymentcontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:38:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\paymentcontroller::$emiModel is deprecated in APPPATH/Controllers/paymentcontroller.php on line 35.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\paymentcontroller->issueCapital()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\paymentcontroller))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:39:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\paymentcontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:39:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\paymentcontroller::$emiModel is deprecated in APPPATH/Controllers/paymentcontroller.php on line 35.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\paymentcontroller->issueCapital()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\paymentcontroller))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:50:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:50:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:50:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\ExcelController::$model is deprecated in APPPATH/Controllers/ExcelController.php on line 23.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\ExcelController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:50:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\ExcelController::$usermodel is deprecated in APPPATH/Controllers/ExcelController.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\ExcelController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:50:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\ExcelController::$agent is deprecated in APPPATH/Controllers/ExcelController.php on line 275.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ExcelController->viewmastersheet()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelController))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:50:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:50:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$model is deprecated in APPPATH/Controllers/Miscontroller.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:50:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$agents is deprecated in APPPATH/Controllers/Miscontroller.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 07:50:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$commonModel is deprecated in APPPATH/Controllers/Miscontroller.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 07:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 07:50:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 09:59:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$model is deprecated in APPPATH/Controllers/Miscontroller.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 09:59:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$agents is deprecated in APPPATH/Controllers/Miscontroller.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-11-25 09:59:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$commonModel is deprecated in APPPATH/Controllers/Miscontroller.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-11-25 09:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-25 09:59:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

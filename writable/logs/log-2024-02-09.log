@@ -1,0 +1,48 @@
+ERROR - 2024-02-09 11:19:10 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'r'
+ERROR - 2024-02-09 11:19:11 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ra'
+ERROR - 2024-02-09 11:19:11 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ram'
+ERROR - 2024-02-09 11:19:12 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'rama'
+ERROR - 2024-02-09 11:19:12 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ramay'
+ERROR - 2024-02-09 11:19:12 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ramaya'
+ERROR - 2024-02-09 11:19:13 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ramaya@'
+ERROR - 2024-02-09 11:19:14 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ramaya@g'
+ERROR - 2024-02-09 11:19:14 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ramaya@gm'
+ERROR - 2024-02-09 11:19:15 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ramaya@gma'
+ERROR - 2024-02-09 11:19:15 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ramaya@gmai'
+ERROR - 2024-02-09 11:19:15 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ramaya@gmail'
+ERROR - 2024-02-09 11:19:16 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ramaya@gmail.'
+ERROR - 2024-02-09 11:19:16 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ramaya@gmail.c'
+ERROR - 2024-02-09 11:19:16 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ramaya@gmail.co'
+ERROR - 2024-02-09 11:19:17 --> Database query error: SELECT *
+FROM `agent_master`
+WHERE `email` = 'ramaya@gmail.com'

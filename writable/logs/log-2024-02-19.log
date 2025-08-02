@@ -1,0 +1,14 @@
+CRITICAL - 2024-02-19 06:17:16 --> Too few arguments to function CodeIgniter\HTTP\Response::redirect(), 0 passed in /home2/glansxfz/wwh.live/test/app/Controllers/admin.php on line 163 and at least 1 expected
+in SYSTEMPATH/HTTP/ResponseTrait.php on line 504.
+ 1 APPPATH/Controllers/admin.php(163): CodeIgniter\HTTP\Response->redirect()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->savedata()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-19 06:18:36 --> Too few arguments to function CodeIgniter\HTTP\Response::redirect(), 0 passed in /home2/glansxfz/wwh.live/test/app/Controllers/admin.php on line 163 and at least 1 expected
+in SYSTEMPATH/HTTP/ResponseTrait.php on line 504.
+ 1 APPPATH/Controllers/admin.php(163): CodeIgniter\HTTP\Response->redirect()
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->savedata()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

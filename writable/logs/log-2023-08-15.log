@@ -1,0 +1,1683 @@
+WARNING - 2023-08-15 09:07:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$staff is deprecated in APPPATH/Controllers/Home.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:07:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:07:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$staff is deprecated in APPPATH/Controllers/Home.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:07:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:07:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:07:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:07:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentwisecontroller::$model is deprecated in APPPATH/Controllers/agentwisecontroller.php on line 21.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentwisecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:07:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentwisecontroller::$usermodel is deprecated in APPPATH/Controllers/agentwisecontroller.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentwisecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:07:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:07:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentwisecontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-15 09:07:51 --> Undefined variable $agent_id
+in APPPATH/Views/pages/bank-report.php on line 51.
+ 1 APPPATH/Views/pages/bank-report.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $agent_id', '/home2/glansxfz/wwh.live/test/app/Views/pages/bank-report.php', 51)
+ 2 SYSTEMPATH/View/View.php(224): include('/home2/glansxfz/wwh.live/test/app/Views/pages/bank-report.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('pages/bank-report', [], true)
+ 5 APPPATH/Controllers/agentwisecontroller.php(44): view('pages/bank-report', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\agentwisecontroller->bankname()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentwisecontroller))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:14:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentwisecontroller::$model is deprecated in APPPATH/Controllers/agentwisecontroller.php on line 21.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentwisecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:14:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentwisecontroller::$usermodel is deprecated in APPPATH/Controllers/agentwisecontroller.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentwisecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:14:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentwisecontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-15 09:14:37 --> Undefined variable $agent_id
+in APPPATH/Views/pages/bank-report.php on line 52.
+ 1 APPPATH/Views/pages/bank-report.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $agent_id', '/home2/glansxfz/wwh.live/test/app/Views/pages/bank-report.php', 52)
+ 2 SYSTEMPATH/View/View.php(224): include('/home2/glansxfz/wwh.live/test/app/Views/pages/bank-report.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('pages/bank-report', [], true)
+ 5 APPPATH/Controllers/agentwisecontroller.php(44): view('pages/bank-report', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\agentwisecontroller->bankname()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentwisecontroller))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:15:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentwisecontroller::$model is deprecated in APPPATH/Controllers/agentwisecontroller.php on line 21.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentwisecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:15:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentwisecontroller::$usermodel is deprecated in APPPATH/Controllers/agentwisecontroller.php on line 22.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentwisecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:15:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentwisecontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-15 09:15:45 --> Undefined variable $agent_id
+in APPPATH/Views/pages/bank-report.php on line 52.
+ 1 APPPATH/Views/pages/bank-report.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $agent_id', '/home2/glansxfz/wwh.live/test/app/Views/pages/bank-report.php', 52)
+ 2 SYSTEMPATH/View/View.php(224): include('/home2/glansxfz/wwh.live/test/app/Views/pages/bank-report.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('pages/bank-report', [], true)
+ 5 APPPATH/Controllers/agentwisecontroller.php(44): view('pages/bank-report', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\agentwisecontroller->bankname()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentwisecontroller))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:26:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:26:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:26:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:26:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:28:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:28:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-15 09:28:14 --> Undefined property: App\Controllers\bankInvoice::$usermodel
+in APPPATH/Controllers/bankInvoice.php on line 27.
+ 1 APPPATH/Controllers/bankInvoice.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\bankInvoice::$usermodel', '/home2/glansxfz/wwh.live/test/app/Controllers/bankInvoice.php', 27)
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:28:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:28:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:28:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-15 09:28:35 --> Undefined variable $agent_id
+in APPPATH/Views/pages/empty.php on line 52.
+ 1 APPPATH/Views/pages/empty.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $agent_id', '/home2/glansxfz/wwh.live/test/app/Views/pages/empty.php', 52)
+ 2 SYSTEMPATH/View/View.php(224): include('/home2/glansxfz/wwh.live/test/app/Views/pages/empty.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('pages/empty', [], true)
+ 5 APPPATH/Controllers/bankInvoice.php(29): view('pages/empty', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:28:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:28:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:28:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:30:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$model is deprecated in APPPATH/Controllers/admin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\admin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:30:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:30:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\admin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:30:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$agent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:30:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$individualagent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:30:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:32:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$agent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:32:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$individualagent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:32:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:33:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:33:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:33:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-15 09:33:03 --> Undefined variable $users
+in APPPATH/Views/pages/empty.php on line 35.
+ 1 APPPATH/Views/pages/empty.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', '/home2/glansxfz/wwh.live/test/app/Views/pages/empty.php', 35)
+ 2 SYSTEMPATH/View/View.php(224): include('/home2/glansxfz/wwh.live/test/app/Views/pages/empty.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1180): CodeIgniter\View\View->render('pages/empty', [], true)
+ 5 APPPATH/Controllers/bankInvoice.php(29): view('pages/empty', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 7 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 8 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:35:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:35:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-15 09:35:50 --> Undefined property: App\Controllers\bankInvoice::$agent
+in APPPATH/Controllers/bankInvoice.php on line 29.
+ 1 APPPATH/Controllers/bankInvoice.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\bankInvoice::$agent', '/home2/glansxfz/wwh.live/test/app/Controllers/bankInvoice.php', 29)
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:36:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:36:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:36:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$agent is deprecated in APPPATH/Controllers/bankInvoice.php on line 25.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:36:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$agent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:36:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$individualagent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:36:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:37:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:37:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:37:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$agent is deprecated in APPPATH/Controllers/bankInvoice.php on line 25.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:37:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$agent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:37:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$individualagent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:37:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:37:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:38:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:38:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:38:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$agent is deprecated in APPPATH/Controllers/bankInvoice.php on line 25.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:39:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:39:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:39:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$agent is deprecated in APPPATH/Controllers/bankInvoice.php on line 25.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:40:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:40:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:40:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$agent is deprecated in APPPATH/Controllers/bankInvoice.php on line 25.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:40:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$agent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:40:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$individualagent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:40:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:40:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$agent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:40:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$individualagent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:40:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:41:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:41:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:41:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:41:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$agent is deprecated in APPPATH/Controllers/bankInvoice.php on line 25.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:42:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:42:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:42:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$agent is deprecated in APPPATH/Controllers/bankInvoice.php on line 25.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:42:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$agent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:42:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$individualagent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:42:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:42:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$agent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:42:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$individualagent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:42:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:42:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$agent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:42:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$individualagent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:42:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:47:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:47:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:47:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:47:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$agent is deprecated in APPPATH/Controllers/bankInvoice.php on line 25.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:47:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:47:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:47:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$agent is deprecated in APPPATH/Controllers/bankInvoice.php on line 25.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:48:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$agent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:48:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$individualagent is deprecated in APPPATH/Controllers/agentindividualadmin.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentindividualadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:48:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:48:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentindividualadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:51:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$model is deprecated in APPPATH/Controllers/generateinvoicecontroller.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\generateinvoicecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:51:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$commonmodel is deprecated in APPPATH/Controllers/generateinvoicecontroller.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\generateinvoicecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:51:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:51:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:52:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$model is deprecated in APPPATH/Controllers/generateinvoicecontroller.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\generateinvoicecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:52:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$commonmodel is deprecated in APPPATH/Controllers/generateinvoicecontroller.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\generateinvoicecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:52:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:52:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:53:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$model is deprecated in APPPATH/Controllers/generateinvoicecontroller.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\generateinvoicecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:53:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$commonmodel is deprecated in APPPATH/Controllers/generateinvoicecontroller.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\generateinvoicecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:53:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:53:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:53:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:53:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$agent is deprecated in APPPATH/Controllers/bankInvoice.php on line 25.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:57:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:57:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:57:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:57:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:57:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:57:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:57:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:57:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:57:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:57:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:57:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 09:57:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 09:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 09:57:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:01:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:01:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:01:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:01:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:05:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:05:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:05:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:05:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:05:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:05:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:05:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:05:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:05:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:05:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:06:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:06:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:06:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:06:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:07:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:07:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:07:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:07:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:07:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:07:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:08:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:08:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:08:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:08:12 --> [DEPRECATED] strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in SYSTEMPATH/Email/Email.php on line 737.
+ 1 SYSTEMPATH/Email/Email.php(737): strpos(null, ',')
+ 2 SYSTEMPATH/Email/Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH/Controllers/agentadmin.php(96): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\agentadmin->insertsubagent()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentadmin))
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:08:12 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in SYSTEMPATH/Email/Email.php on line 737.
+ 1 SYSTEMPATH/Email/Email.php(737): trim(null)
+ 2 SYSTEMPATH/Email/Email.php(550): CodeIgniter\Email\Email->stringToArray(null)
+ 3 APPPATH/Controllers/agentadmin.php(96): CodeIgniter\Email\Email->setTo(null)
+ 4 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\agentadmin->insertsubagent()
+ 5 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentadmin))
+ 6 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-08-15 10:08:14 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-08-15 10:08:14 --> 220 smtp.gmail.com ESMTP 6-20020a17090a1a0600b00262eb0d141esm10030628pjk.28 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.53.42.51]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+from: 250 2.1.0 OK 6-20020a17090a1a0600b00262eb0d141esm10030628pjk.28 - gsmtp
+
+to: 555 5.5.2 Syntax error. 6-20020a17090a1a0600b00262eb0d141esm10030628pjk.28 - gsmtp
+
+The following SMTP error was encountered: 555 5.5.2 Syntax error. 6-20020a17090a1a0600b00262eb0d141esm10030628pjk.28 - gsmtp
+
+quit: 221 2.0.0 closing connection 6-20020a17090a1a0600b00262eb0d141esm10030628pjk.28 - gsmtp
+
+WARNING - 2023-08-15 10:08:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:08:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:08:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:08:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:08:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:08:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:08:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:08:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:08:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:08:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:08:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:08:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:08:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:08:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:08:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:08:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:08:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:09:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:09:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:09:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:09:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:09:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:09:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:10:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:10:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:10:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:10:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:10:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:10:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:10:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:10:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$staff is deprecated in APPPATH/Controllers/staffadmin.php on line 12.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\staffadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\staffadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$usermodel is deprecated in APPPATH/Controllers/bankInvoice.php on line 24.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\bankInvoice::$agent is deprecated in APPPATH/Controllers/bankInvoice.php on line 25.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\bankInvoice->display()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\bankInvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$agent is deprecated in APPPATH/Controllers/agentadmin.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$subAgentModel is deprecated in APPPATH/Controllers/agentadmin.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentadmin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentadmin::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH/Controllers/agentinvoice.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH/Controllers/agentinvoice.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH/Controllers/agentinvoice.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$model is deprecated in APPPATH/Controllers/Miscontroller.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$agents is deprecated in APPPATH/Controllers/Miscontroller.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$commonModel is deprecated in APPPATH/Controllers/Miscontroller.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH/Controllers/agentinvoice.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH/Controllers/agentinvoice.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:13:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH/Controllers/agentinvoice.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:13:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH/Controllers/agentinvoice.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH/Controllers/agentinvoice.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH/Controllers/agentinvoice.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:15:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:15:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$model is deprecated in APPPATH/Controllers/generateinvoicecontroller.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\generateinvoicecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$commonmodel is deprecated in APPPATH/Controllers/generateinvoicecontroller.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\generateinvoicecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:15:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$model is deprecated in APPPATH/Controllers/Miscontroller.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$agents is deprecated in APPPATH/Controllers/Miscontroller.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$commonModel is deprecated in APPPATH/Controllers/Miscontroller.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:15:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH/Controllers/agentinvoice.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH/Controllers/agentinvoice.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH/Controllers/agentinvoice.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:15:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH/Controllers/agentinvoice.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH/Controllers/agentinvoice.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH/Controllers/agentinvoice.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:15:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH/Controllers/agentinvoice.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH/Controllers/agentinvoice.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH/Controllers/agentinvoice.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:15:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:15:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$generateInvoiceModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 126.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\agentinvoice->insertdata()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$model is deprecated in APPPATH/Controllers/Miscontroller.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$agents is deprecated in APPPATH/Controllers/Miscontroller.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$commonModel is deprecated in APPPATH/Controllers/Miscontroller.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:16:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:16:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH/Controllers/agentinvoice.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH/Controllers/agentinvoice.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH/Controllers/agentinvoice.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:16:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:16:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH/Controllers/agentinvoice.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH/Controllers/agentinvoice.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH/Controllers/agentinvoice.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:16:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:16:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH/Controllers/agentinvoice.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH/Controllers/agentinvoice.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH/Controllers/agentinvoice.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:16:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:16:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$generateInvoiceModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 126.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\agentinvoice->insertdata()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$model is deprecated in APPPATH/Controllers/generateinvoicecontroller.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\generateinvoicecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$commonmodel is deprecated in APPPATH/Controllers/generateinvoicecontroller.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\generateinvoicecontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:16:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\generateinvoicecontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$model is deprecated in APPPATH/Controllers/Miscontroller.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$agents is deprecated in APPPATH/Controllers/Miscontroller.php on line 16.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$commonModel is deprecated in APPPATH/Controllers/Miscontroller.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:16:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH/Controllers/agentinvoice.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH/Controllers/agentinvoice.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:16:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH/Controllers/agentinvoice.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:16:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:17:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH/Controllers/agentinvoice.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:17:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH/Controllers/agentinvoice.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:17:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:17:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH/Controllers/agentinvoice.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:17:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:17:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH/Controllers/agentinvoice.php on line 17.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:17:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH/Controllers/agentinvoice.php on line 18.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:17:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 19.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:17:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH/Controllers/agentinvoice.php on line 20.
+ 1 SYSTEMPATH/CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-15 10:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-08-15 10:17:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH/Controllers/BaseController.php on line 57.
+ 1 SYSTEMPATH/CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH/CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-08-15 10:17:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$generateInvoiceModel is deprecated in APPPATH/Controllers/agentinvoice.php on line 126.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\agentinvoice->insertdata()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

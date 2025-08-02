@@ -1,0 +1,75 @@
+CRITICAL - 2024-02-06 09:58:54 --> Undefined array key 4
+in APPPATH/Controllers/ExcelController.php on line 97.
+ 1 APPPATH/Controllers/ExcelController.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 4', '/home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php', 97)
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ExcelController->importExcelToDb()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 09:59:38 --> Undefined array key 8
+in APPPATH/Controllers/ExcelController.php on line 101.
+ 1 APPPATH/Controllers/ExcelController.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 8', '/home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php', 101)
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ExcelController->importExcelToDb()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-02-06 10:27:22 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IS NULL
+AND `todate` < IS NULL' at line 4 in /home2/glansxfz/wwh.live/test/system/Database/MySQLi/Connection.php:295
+Stack trace:
+#0 /home2/glansxfz/wwh.live/test/system/Database/MySQLi/Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 /home2/glansxfz/wwh.live/test/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 /home2/glansxfz/wwh.live/test/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 /home2/glansxfz/wwh.live/test/system/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 /home2/glansxfz/wwh.live/test/system/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 /home2/glansxfz/wwh.live/test/system/BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 /home2/glansxfz/wwh.live/test/app/Models/GenerateInvoiceModel.php(99): CodeIgniter\BaseModel->findAll()
+#7 /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php(351): App\Models\GenerateInvoiceModel->checkDataExists(NULL, NULL, NULL)
+#8 /home2/glansxfz/wwh.live/test/system/CodeIgniter.php(932): App\Controllers\agentinvoice->checkDataExists()
+#9 /home2/glansxfz/wwh.live/test/system/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+#10 /home2/glansxfz/wwh.live/test/system/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /home2/glansxfz/wwh.live/test/index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-02-06 10:27:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IS NULL
+AND `todate` < IS NULL' at line 4
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 295.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(295): mysqli->query('SELECT *
+FROM `generate_invoice`
+WHERE `agent_id` IS NULL
+AND `fromdate` > IS NULL
+AND `todate` < IS NULL', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `generate_invoice`
+WHERE `agent_id` IS NULL
+AND `fromdate` > IS NULL
+AND `todate` < IS NULL')
+ 3 SYSTEMPATH/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `generate_invoice`
+WHERE `agent_id` IS NULL
+AND `fromdate` > IS NULL
+AND `todate` < IS NULL')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `generate_invoice`
+WHERE `agent_id` IS NULL
+AND `fromdate` > IS NULL
+AND `todate` < IS NULL', [], false)
+ 5 SYSTEMPATH/Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH/Models/GenerateInvoiceModel.php(99): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH/Controllers/agentinvoice.php(351): App\Models\GenerateInvoiceModel->checkDataExists(null, null, null)
+ 9 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\agentinvoice->checkDataExists()
+10 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+11 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 11:37:01 --> Call to undefined method App\Models\StaffModel::isStaffExist
+in SYSTEMPATH/Model.php on line 838.
+ 1 APPPATH/Controllers/staffadmin.php(110): CodeIgniter\Model->__call('isStaffExist', [...])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\staffadmin->insert()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\staffadmin))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-06 11:37:29 --> Call to undefined method App\Models\StaffModel::isStaffExist
+in SYSTEMPATH/Model.php on line 838.
+ 1 APPPATH/Controllers/staffadmin.php(110): CodeIgniter\Model->__call('isStaffExist', [...])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\staffadmin->insert()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\staffadmin))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

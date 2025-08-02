@@ -1,0 +1,145 @@
+CRITICAL - 2024-02-01 05:58:10 --> Undefined array key 8
+in APPPATH/Controllers/ExcelController.php on line 101.
+ 1 APPPATH/Controllers/ExcelController.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 8', '/home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php', 101)
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ExcelController->importExcelToDb()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 06:22:24 --> Undefined array key 13
+in APPPATH/Controllers/ExcelController.php on line 106.
+ 1 APPPATH/Controllers/ExcelController.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 13', '/home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php', 106)
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ExcelController->importExcelToDb()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 06:24:52 --> Undefined array key 13
+in APPPATH/Controllers/ExcelController.php on line 106.
+ 1 APPPATH/Controllers/ExcelController.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 13', '/home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php', 106)
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ExcelController->importExcelToDb()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 06:25:39 --> Undefined array key 13
+in APPPATH/Controllers/ExcelController.php on line 106.
+ 1 APPPATH/Controllers/ExcelController.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 13', '/home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php', 106)
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ExcelController->importExcelToDb()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 06:25:42 --> Undefined array key 13
+in APPPATH/Controllers/ExcelController.php on line 106.
+ 1 APPPATH/Controllers/ExcelController.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 13', '/home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php', 106)
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ExcelController->importExcelToDb()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 06:26:01 --> Undefined array key 13
+in APPPATH/Controllers/ExcelController.php on line 106.
+ 1 APPPATH/Controllers/ExcelController.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 13', '/home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php', 106)
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ExcelController->importExcelToDb()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 06:26:22 --> Undefined array key 13
+in APPPATH/Controllers/ExcelController.php on line 106.
+ 1 APPPATH/Controllers/ExcelController.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 13', '/home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php', 106)
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ExcelController->importExcelToDb()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 06:28:00 --> Undefined array key 13
+in APPPATH/Controllers/ExcelController.php on line 106.
+ 1 APPPATH/Controllers/ExcelController.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 13', '/home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php', 106)
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\ExcelController->importExcelToDb()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExcelController))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 18:11:33 --> Class "App\Controllers\SubAgentModel" not found
+in APPPATH/Controllers/admin.php on line 31.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->home()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 18:11:52 --> Class "App\Controllers\SubAgentModel" not found
+in APPPATH/Controllers/admin.php on line 31.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->home()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 18:12:21 --> Class "App\Controllers\SubAgentModel" not found
+in APPPATH/Controllers/admin.php on line 31.
+ 1 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->home()
+ 2 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 3 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 18:12:54 --> Call to undefined method App\Models\StaffModel::getCountOfStaff
+in SYSTEMPATH/Model.php on line 838.
+ 1 APPPATH/Controllers/admin.php(33): CodeIgniter\Model->__call('getCountOfStaff', [])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->home()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 18:13:11 --> Call to undefined method App\Models\StaffModel::getCountOfStaff
+in SYSTEMPATH/Model.php on line 838.
+ 1 APPPATH/Controllers/admin.php(33): CodeIgniter\Model->__call('getCountOfStaff', [])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->home()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 18:13:39 --> Call to undefined method App\Models\StaffModel::getCountOfStaff
+in SYSTEMPATH/Model.php on line 838.
+ 1 APPPATH/Controllers/admin.php(33): CodeIgniter\Model->__call('getCountOfStaff', [])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->home()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 18:16:05 --> Call to undefined method App\Models\StaffModel::getCountOfStaff
+in SYSTEMPATH/Model.php on line 838.
+ 1 APPPATH/Controllers/admin.php(33): CodeIgniter\Model->__call('getCountOfStaff', [])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->home()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 18:16:34 --> Call to undefined method App\Models\StaffModel::getCountOfStaff
+in SYSTEMPATH/Model.php on line 838.
+ 1 APPPATH/Controllers/admin.php(33): CodeIgniter\Model->__call('getCountOfStaff', [])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->home()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 18:16:51 --> Call to undefined method App\Models\StaffModel::getCountOfStaff
+in SYSTEMPATH/Model.php on line 838.
+ 1 APPPATH/Controllers/admin.php(33): CodeIgniter\Model->__call('getCountOfStaff', [])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->home()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 18:17:12 --> Call to undefined method App\Models\StaffModel::getCountOfStaff
+in SYSTEMPATH/Model.php on line 838.
+ 1 APPPATH/Controllers/admin.php(33): CodeIgniter\Model->__call('getCountOfStaff', [])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->home()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 18:17:43 --> Call to undefined method App\Models\StaffModel::getCountOfStaff
+in SYSTEMPATH/Model.php on line 838.
+ 1 APPPATH/Controllers/admin.php(31): CodeIgniter\Model->__call('getCountOfStaff', [])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->home()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 18:17:49 --> Call to undefined method App\Models\StaffModel::getCountOfStaff
+in SYSTEMPATH/Model.php on line 838.
+ 1 APPPATH/Controllers/admin.php(31): CodeIgniter\Model->__call('getCountOfStaff', [])
+ 2 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->home()
+ 3 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 4 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-01 18:22:20 --> Call to undefined method App\Models\StaffModel::count
+in SYSTEMPATH/Model.php on line 838.
+ 1 APPPATH/Models/StaffModel.php(36): CodeIgniter\Model->__call('count', [])
+ 2 APPPATH/Controllers/admin.php(33): App\Models\StaffModel->getCountOfStaff()
+ 3 SYSTEMPATH/CodeIgniter.php(932): App\Controllers\admin->home()
+ 4 SYSTEMPATH/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\admin))
+ 5 SYSTEMPATH/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

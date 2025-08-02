@@ -1,0 +1,1249 @@
+[14-Jul-2023 07:21:06 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home2/glansxfz/wwh.live/test/app/Views/layouts/dashboard_layout.php on line 112
+[14-Jul-2023 07:23:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) in /home2/glansxfz/wwh.live/test/app/Views/layouts/dashboard_layout.php on line 1
+[14-Jul-2023 07:25:05 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) in /home2/glansxfz/wwh.live/test/app/Views/layouts/dashboard_layout.php on line 1
+[14-Jul-2023 07:25:05 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) in /home2/glansxfz/wwh.live/test/app/Views/layouts/dashboard_layout.php on line 1
+[14-Jul-2023 07:25:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home2/glansxfz/wwh.live/test/app/Views/layouts/dashboard_layout.php on line 119
+[14-Jul-2023 07:42:20 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in /home2/glansxfz/wwh.live/test/system/View/View.php on line 224
+[15-Jul-2023 09:46:21 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Config/Routes.php on line 3
+[15-Jul-2023 09:48:02 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Config/Routes.php on line 3
+[15-Jul-2023 09:49:15 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Config/Routes.php on line 5
+[15-Jul-2023 09:49:53 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Config/Routes.php on line 3
+[15-Jul-2023 09:51:12 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Config/Routes.php on line 3
+[15-Jul-2023 09:53:12 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Config/Routes.php on line 3
+[15-Jul-2023 09:55:27 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Config/Routes.php on line 3
+[19-Jul-2023 09:02:16 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\ExcelController::getAgentData() in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 212
+[19-Jul-2023 09:03:46 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\ExcelController::getAgentData() in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 212
+[19-Jul-2023 09:03:59 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\ExcelController::getAgentData() in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 212
+[19-Jul-2023 13:39:50 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\ExcelController::getAgentData() in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 188
+[23-Jul-2023 14:35:04 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentadmin::getsubagentdetails() in /home2/glansxfz/wwh.live/test/app/Controllers/agentadmin.php on line 245
+[23-Jul-2023 14:36:04 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentadmin::agentlistdisplay() in /home2/glansxfz/wwh.live/test/app/Controllers/agentadmin.php on line 238
+[23-Jul-2023 14:41:39 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentadmin::getSubAgentCount() in /home2/glansxfz/wwh.live/test/app/Controllers/agentadmin.php on line 214
+[24-Jul-2023 06:24:30 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentadmin::delete() in /home2/glansxfz/wwh.live/test/app/Controllers/agentadmin.php on line 233
+[24-Jul-2023 09:32:28 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:32:32 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:32:33 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:32:45 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:32:49 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:32:55 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:33:11 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:33:14 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:33:18 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:33:21 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:33:44 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:33:48 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:33:51 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:33:53 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:33:55 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[24-Jul-2023 09:34:49 UTC] PHP Fatal error:  Cannot redeclare Config\App::$sessionDriver in /home2/glansxfz/wwh.live/test/app/Config/App.php on line 451
+[26-Jul-2023 11:00:10 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\paymentcontroller::payment_display() in /home2/glansxfz/wwh.live/test/app/Controllers/paymentcontroller.php on line 63
+[02-Aug-2023 04:30:43 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\ExcelController::updateexecutive() in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 331
+[02-Aug-2023 04:31:21 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\ExcelController::updateexecutive() in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 331
+[02-Aug-2023 04:31:39 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\ExcelController::updateexecutive() in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 331
+[02-Aug-2023 12:38:10 UTC] PHP Fatal error:  Declaration of App\Models\CommonModel::update($id, $data) must be compatible with CodeIgniter\Model::update($id = null, $data = null): bool in /home2/glansxfz/wwh.live/test/app/Models/CommonModel.php on line 57
+[03-Aug-2023 08:11:32 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 09:11:59 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 09:22:22 UTC] 220 smtp.gmail.com ESMTP q17-20020a638c51000000b0050f85ef50d1sm12841918pgn.26 - gsmtp
+<br><pre>hello: 250-smtp.gmail.com at your service, [103.53.42.51]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials q17-20020a638c51000000b0050f85ef50d1sm12841918pgn.26 - gsmtp
+<br>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Thu, 3 Aug 2023 09:22:20 +0000
+From: &quot;soumya&quot; &lt;soumyaranjan.glansa@gmail.com&gt;
+Return-Path: &lt;soumyaranjan.glansa@gmail.com&gt;
+To: anita.glansa@gmail.com
+Subject: =?UTF-8?Q?You=20have=20been=20assigned=20as=20an=20agent?=
+Reply-To: &lt;soumyaranjan.glansa@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: soumyaranjan.glansa@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;64cb71ccbb0382.71409859@gmail.com&gt;
+Mime-Version: 1.0
+
+</pre>
+[03-Aug-2023 09:25:29 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 09:30:07 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 09:30:57 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 09:43:00 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 09:54:06 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 09:56:32 UTC] 220 smtp.gmail.com ESMTP e22-20020a62aa16000000b006875df47743sm3280689pff.156 - gsmtp
+<br><pre>hello: 250-smtp.gmail.com at your service, [103.53.42.51]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre><pre>starttls: 220 2.0.0 Ready to start TLS
+</pre><pre>hello: 250-smtp.gmail.com at your service, [103.53.42.51]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials e22-20020a62aa16000000b006875df47743sm3280689pff.156 - gsmtp
+<br>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Thu, 3 Aug 2023 09:56:30 +0000
+From: &quot;soumya&quot; &lt;soumyaranjan.glansa@gmail.com&gt;
+Return-Path: &lt;soumyaranjan.glansa@gmail.com&gt;
+Subject: =?UTF-8?Q?You=20have=20been=20assigned=20as=20an=20agent?=
+Reply-To: &lt;soumyaranjan.glansa@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: soumyaranjan.glansa@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;64cb79ce400c14.07376576@gmail.com&gt;
+Mime-Version: 1.0
+
+</pre>
+[03-Aug-2023 09:57:19 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 10:00:15 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 10:08:05 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 10:12:37 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 10:18:11 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 10:25:08 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 10:27:26 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 11:03:55 UTC] 220 smtp.gmail.com ESMTP b21-20020a170902d31500b001b552309aedsm14077868plc.192 - gsmtp
+<br><pre>hello: 250-smtp.gmail.com at your service, [103.53.42.51]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre><pre>starttls: 220 2.0.0 Ready to start TLS
+</pre><pre>hello: 250-smtp.gmail.com at your service, [103.53.42.51]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials b21-20020a170902d31500b001b552309aedsm14077868plc.192 - gsmtp
+<br>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Thu, 3 Aug 2023 11:03:53 +0000
+From: &quot;anita&quot; &lt;anita.glansa@gmail.com&gt;
+Return-Path: &lt;anita.glansa@gmail.com&gt;
+Subject: =?UTF-8?Q?You=20have=20been=20assigned=20as=20an=20agent?=
+Reply-To: &lt;anita.glansa@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: anita.glansa@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;64cb8999690a45.48985280@gmail.com&gt;
+Mime-Version: 1.0
+
+</pre>
+[03-Aug-2023 11:09:00 UTC] 220 smtp.gmail.com ESMTP a15-20020a62e20f000000b0068664ace38asm12981912pfi.19 - gsmtp
+<br><pre>hello: 250-smtp.gmail.com at your service, [103.53.42.51]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre><pre>starttls: 220 2.0.0 Ready to start TLS
+</pre><pre>hello: 250-smtp.gmail.com at your service, [103.53.42.51]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre>Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a15-20020a62e20f000000b0068664ace38asm12981912pfi.19 - gsmtp
+<br>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Thu, 3 Aug 2023 11:08:58 +0000
+From: &quot;soumya&quot; &lt;soumyaranjan.glansa@gmail.com&gt;
+Return-Path: &lt;soumyaranjan.glansa@gmail.com&gt;
+Subject: =?UTF-8?Q?You=20have=20been=20assigned=20as=20an=20agent?=
+Reply-To: &lt;soumyaranjan.glansa@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: soumyaranjan.glansa@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;64cb8aca3aca24.38510953@gmail.com&gt;
+Mime-Version: 1.0
+
+</pre>
+[03-Aug-2023 11:11:15 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[03-Aug-2023 11:26:38 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home2/glansxfz/wwh.live/test/app/Config/Email.php on line 11
+[04-Aug-2023 05:12:04 UTC] PHP Fatal error:  Cannot redeclare App\Models\CommonModel::getDataBetweenDates() in /home2/glansxfz/wwh.live/test/app/Models/CommonModel.php on line 56
+[04-Aug-2023 06:10:28 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\ExcelController::sendEmailToAgents() in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 278
+[04-Aug-2023 06:55:14 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\ExcelController::getBankData() in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 432
+[04-Aug-2023 06:55:56 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\ExcelController::getBankData() in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 432
+[04-Aug-2023 12:59:50 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentwisecontroller::lossheet() in /home2/glansxfz/wwh.live/test/app/Controllers/agentwisecontroller.php on line 48
+[04-Aug-2023 12:59:52 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentwisecontroller::lossheet() in /home2/glansxfz/wwh.live/test/app/Controllers/agentwisecontroller.php on line 48
+[07-Aug-2023 08:57:30 UTC] PHP Fatal error:  Cannot redeclare App\Models\CommonModel::getDataBetweenDates() in /home2/glansxfz/wwh.live/test/app/Models/CommonModel.php on line 57
+[07-Aug-2023 08:57:48 UTC] PHP Fatal error:  Cannot redeclare App\Models\CommonModel::getDataBetweenDates() in /home2/glansxfz/wwh.live/test/app/Models/CommonModel.php on line 57
+[08-Aug-2023 12:55:38 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::comparedate() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 67
+[09-Aug-2023 06:38:54 UTC] PHP Fatal error:  Cannot redeclare App\Models\CommonModel::getDataBetweenDates() in /home2/glansxfz/wwh.live/test/app/Models/CommonModel.php on line 86
+[09-Aug-2023 07:06:20 UTC] PHP Fatal error:  Cannot redeclare App\Models\CommonModel::getDataByLosNoLike() in /home2/glansxfz/wwh.live/test/app/Models/CommonModel.php on line 85
+[10-Aug-2023 11:37:43 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::comparedates() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 52
+[10-Aug-2023 11:38:18 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::comparedates() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 52
+[10-Aug-2023 11:38:55 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::comparedates() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 52
+[10-Aug-2023 11:39:22 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::comparedates() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 52
+[12-Aug-2023 11:22:03 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 110
+[12-Aug-2023 11:22:29 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 110
+[12-Aug-2023 11:25:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 110
+[13-Aug-2023 15:22:36 UTC] PHP Fatal error:  Trait "App\Controllers\ResponseTrait" not found in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 12
+[13-Aug-2023 15:22:45 UTC] PHP Fatal error:  Trait "App\Controllers\ResponseTrait" not found in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 12
+[14-Aug-2023 12:33:26 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::checkDuplicateData() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 114
+[14-Aug-2023 12:33:28 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::checkDuplicateData() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 114
+[19-Aug-2023 05:46:53 UTC] PHP Fatal error:  Cannot use empty list in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 169
+[07-Sep-2023 11:10:15 UTC] PHP Fatal error:  Cannot redeclare App\Models\EmiModel::getAgentLoanData() in /home2/glansxfz/wwh.live/test/app/Models/EmiModel.php on line 30
+[07-Sep-2023 11:30:23 UTC] PHP Fatal error:  Cannot redeclare App\Models\EmiModel::getAgentLoanData() in /home2/glansxfz/wwh.live/test/app/Models/EmiModel.php on line 41
+[08-Sep-2023 12:35:55 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::agentInvoice() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 108
+[08-Sep-2023 12:35:58 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::agentInvoice() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 108
+[09-Sep-2023 12:18:21 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Controllers/admin.php on line 3
+[11-Oct-2023 09:43:12 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 3
+[11-Oct-2023 09:44:22 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 3
+[11-Oct-2023 09:45:05 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 3
+[11-Oct-2023 09:46:08 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 3
+[11-Oct-2023 09:46:23 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 3
+[11-Oct-2023 09:47:01 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Controllers/ExcelController.php on line 3
+[11-Oct-2023 10:06:05 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[11-Oct-2023 10:08:02 UTC] Date Conversion Failed: Invalid date format
+[19-Oct-2023 11:15:31 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Controllers/applicationReportController.php on line 3
+[20-Oct-2023 09:09:55 UTC] PHP Fatal error:  Uncaught TypeError: CodeIgniter\HTTP\IncomingRequest::determineHost(): Return value must be of type string, null returned in /home2/glansxfz/wwh.live/test/system/HTTP/IncomingRequest.php:503
+Stack trace:
+#0 /home2/glansxfz/wwh.live/test/system/HTTP/IncomingRequest.php(468): CodeIgniter\HTTP\IncomingRequest->determineHost(Object(Config\App), 'wwh.live/test/')
+#1 /home2/glansxfz/wwh.live/test/system/HTTP/IncomingRequest.php(232): CodeIgniter\HTTP\IncomingRequest->setPath('/', Object(Config\App))
+#2 /home2/glansxfz/wwh.live/test/system/HTTP/IncomingRequest.php(178): CodeIgniter\HTTP\IncomingRequest->detectURI('REQUEST_URI', 'wwh.live/test/')
+#3 /home2/glansxfz/wwh.live/test/system/Config/Services.php(541): CodeIgniter\HTTP\IncomingRequest->__construct(Object(Config\App), Object(CodeIgniter\HTTP\URI), '', Object(CodeIgniter\HTTP\UserAgent))
+#4 /home2/glansxfz/wwh.live/test/system/Config/Services.php(501): CodeIgniter\Config\Services::incomingrequest(Object(Config\App), false)
+#5 /home2/glansxfz/wwh.live/test/system/Config/BaseService.php(252): CodeIgniter\Config\Services::request(NULL, false)
+#6 /home2/glansxfz/wwh.live/test/system/Config/BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('request', Array)
+#7 /home2/glansxfz/wwh.live/test/system/Config/Services.php(497): CodeIgniter\Config\BaseService::getSharedInstance('request', NULL)
+#8 /home2/glansxfz/wwh.live/test/system/Config/BaseService.php(252): CodeIgniter\Config\Services::request()
+#9 /home2/glansxfz/wwh.live/test/system/Config/Services.php(265): CodeIgniter\Config\BaseService::__callStatic('request', Array)
+#10 /home2/glansxfz/wwh.live/test/system/Config/BaseService.php(252): CodeIgniter\Config\Services::exceptions(Object(Config\Exceptions), NULL, NULL, false)
+#11 /home2/glansxfz/wwh.live/test/system/Config/BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('exceptions', Array)
+#12 /home2/glansxfz/wwh.live/test/system/Config/Services.php(261): CodeIgniter\Config\BaseService::getSharedInstance('exceptions', NULL, NULL, NULL)
+#13 /home2/glansxfz/wwh.live/test/system/Config/BaseService.php(252): CodeIgniter\Config\Services::exceptions()
+#14 /home2/glansxfz/wwh.live/test/system/CodeIgniter.php(186): CodeIgniter\Config\BaseService::__callStatic('exceptions', Array)
+#15 /home2/glansxfz/wwh.live/test/index.php(55): CodeIgniter\CodeIgniter->initialize()
+#16 {main}
+  thrown in /home2/glansxfz/wwh.live/test/system/HTTP/IncomingRequest.php on line 503
+[20-Oct-2023 10:17:05 UTC] PHP Fatal error:  Cannot redeclare App\Models\CommonModel::getAgentExportData() in /home2/glansxfz/wwh.live/test/app/Models/CommonModel.php on line 57
+[20-Oct-2023 10:17:10 UTC] PHP Fatal error:  Cannot redeclare App\Models\CommonModel::getAgentExportData() in /home2/glansxfz/wwh.live/test/app/Models/CommonModel.php on line 57
+[20-Oct-2023 10:17:11 UTC] PHP Fatal error:  Cannot redeclare App\Models\CommonModel::getAgentExportData() in /home2/glansxfz/wwh.live/test/app/Models/CommonModel.php on line 57
+[20-Oct-2023 10:17:15 UTC] PHP Fatal error:  Cannot redeclare App\Models\CommonModel::getAgentExportData() in /home2/glansxfz/wwh.live/test/app/Models/CommonModel.php on line 57
+[20-Oct-2023 12:28:49 UTC] PHP Fatal error:  Cannot redeclare App\Models\AgentModel::getAgentEmail() in /home2/glansxfz/wwh.live/test/app/Models/AgentModel.php on line 34
+[20-Oct-2023 12:32:05 UTC] Agent not found for ID: FIN23A0
+[20-Oct-2023 12:39:49 UTC] Agent not found for ID: FIN23A0
+[20-Oct-2023 12:41:58 UTC] Agent not found for ID: FIN23A0
+[20-Oct-2023 12:43:01 UTC] Agent not found for ID: FIN23A0
+[20-Oct-2023 12:45:26 UTC] Agent not found for ID: FIN23A0
+[20-Oct-2023 12:50:38 UTC] Agent not found for ID: FIN23A0
+[24-Oct-2023 09:39:41 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\paymentcontroller::delete() in /home2/glansxfz/wwh.live/test/app/Controllers/paymentcontroller.php on line 358
+[24-Oct-2023 12:10:22 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::savePdf() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 58
+[25-Oct-2023 13:31:46 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Config/Filters.php on line 3
+[04-Nov-2023 14:17:07 UTC] PHP Fatal error:  Cannot use Dompdf\Dompdf as Dompdf because the name is already in use in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 19
+[04-Nov-2023 16:04:59 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 8
+[06-Nov-2023 04:59:30 UTC] PHP Fatal error:  Cannot use Dompdf\Dompdf as Dompdf because the name is already in use in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 17
+[28-Dec-2023 07:53:51 UTC] PHP Fatal error:  Cannot use Dompdf\Dompdf as Dompdf because the name is already in use in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 17
+[30-Dec-2023 07:30:25 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Frame/FrameListIterator.php on line 45
+[30-Dec-2023 07:32:33 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1190
+[30-Dec-2023 08:09:55 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/FrameReflower/Text.php on line 108
+[30-Dec-2023 08:21:16 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 866
+[30-Dec-2023 08:23:55 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1432
+[30-Dec-2023 08:24:13 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Renderer/Inline.php on line 91
+[30-Dec-2023 08:25:16 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1432
+[30-Dec-2023 08:26:18 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 866
+[30-Dec-2023 08:29:00 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Frame/FrameListIterator.php on line 84
+[30-Dec-2023 08:29:23 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php on line 539
+[30-Dec-2023 08:30:40 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 970
+[30-Dec-2023 08:41:49 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1432
+[30-Dec-2023 08:46:30 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Frame/FrameListIterator.php on line 79
+[30-Dec-2023 08:52:03 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1443
+[30-Dec-2023 08:53:06 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php on line 560
+[30-Dec-2023 08:54:58 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Frame.php on line 287
+[30-Dec-2023 08:56:02 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Renderer/Inline.php on line 100
+[30-Dec-2023 09:00:39 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1432
+[30-Dec-2023 09:02:04 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Renderer/Inline.php on line 91
+[30-Dec-2023 09:03:06 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 958
+[30-Dec-2023 09:04:08 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Frame/FrameListIterator.php on line 79
+[30-Dec-2023 10:51:08 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 958
+[30-Dec-2023 11:03:01 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Frame/FrameListIterator.php on line 53
+[30-Dec-2023 11:03:38 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Frame/FrameListIterator.php on line 53
+[30-Dec-2023 11:27:07 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php on line 560
+[31-Dec-2023 17:31:50 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1432
+[31-Dec-2023 17:34:40 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1432
+[31-Dec-2023 17:38:44 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php on line 461
+[31-Dec-2023 17:50:03 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 866
+[31-Dec-2023 17:55:15 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php on line 352
+[31-Dec-2023 17:58:07 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1439
+[31-Dec-2023 18:07:00 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 866
+[31-Dec-2023 18:22:20 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1443
+[01-Jan-2024 04:46:07 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1432
+[01-Jan-2024 04:53:04 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Frame/FrameListIterator.php on line 63
+[01-Jan-2024 06:52:02 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php on line 257
+[01-Jan-2024 06:57:29 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Renderer.php on line 194
+[01-Jan-2024 07:00:29 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1432
+[01-Jan-2024 07:03:50 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 866
+[01-Jan-2024 07:06:43 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 961
+[01-Jan-2024 07:11:41 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1439
+[01-Jan-2024 07:13:53 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Css/Style.php on line 1439
+[01-Jan-2024 07:51:53 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/FrameDecorator/AbstractFrameDecorator.php on line 478
+[01-Jan-2024 07:55:49 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home2/glansxfz/wwh.live/test/dompdf/vendor/dompdf/dompdf/src/Frame/FrameListIterator.php on line 53
+[01-Jan-2024 10:24:18 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::sendEmail() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 294
+[01-Jan-2024 10:44:46 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::sendEmail() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 240
+[01-Jan-2024 10:56:43 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::sendEmail() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 198
+[01-Jan-2024 10:57:06 UTC] PHP Fatal error:  Trait "Dompdf\Dompdf\Dompdf" not found in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 21
+[01-Jan-2024 10:57:37 UTC] PHP Fatal error:  Trait "Dompdf\Dompdf\Dompdf" not found in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 21
+[01-Jan-2024 11:02:02 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::sendEmail() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 228
+[01-Jan-2024 11:02:22 UTC] PHP Fatal error:  Trait "Dompdf\Dompdf\Dompdf" not found in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 21
+[01-Jan-2024 11:36:07 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\agentinvoice::sendEmail() in /home2/glansxfz/wwh.live/test/app/Controllers/agentinvoice.php on line 304
+[02-Jan-2024 05:20:06 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 05:25:42 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 05:28:32 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 05:31:55 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 05:45:34 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 05:56:25 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 06:02:24 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 06:11:05 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 06:15:00 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 06:21:11 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 06:24:26 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 06:27:20 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 06:34:35 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 06:36:57 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 06:39:11 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 06:41:43 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 06:56:10 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 07:17:19 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 07:28:04 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 08:37:22 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 08:44:01 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 08:54:38 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 10:42:08 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 10:46:05 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 10:55:11 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 11:16:00 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 11:24:49 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 11:37:05 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 11:37:17 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[02-Jan-2024 11:52:50 UTC] Image Source: https://wwh.live/test/Finexpertlogo.png
+[17-Jan-2024 18:19:27 UTC] Error exporting Excel: fopen(/home2/glansxfz/wwh.live/test/writable/writable/uploads/MisExport/ApplicationReport20240117181927.xlsx): Failed to open stream: No such file or directory
+[17-Jan-2024 18:19:55 UTC] Error exporting Excel: fopen(/home2/glansxfz/wwh.live/test/writable/writable/uploads/MisExport/ApplicationReport20240117181955.xlsx): Failed to open stream: No such file or directory
+[18-Jan-2024 16:56:43 UTC] Error exporting Excel: Undefined variable $emailAddress
+[18-Jan-2024 17:11:33 UTC] Error exporting Excel: fopen(/home2/glansxfz/wwh.live/test/writable/writable/uploads/MisExport/MisController20240118171133.xlsx): Failed to open stream: No such file or directory
+[18-Jan-2024 17:13:38 UTC] Error exporting Excel: fopen(/home2/glansxfz/wwh.live/test/writable/writable/uploads/MisExport/MisController20240118171338.xlsx): Failed to open stream: No such file or directory
+[18-Jan-2024 17:22:18 UTC] Error exporting Excel: fopen(/home2/glansxfz/wwh.live/test/writable/writable/uploads/MisExport/MisController20240118172218.xlsx): Failed to open stream: No such file or directory
+[18-Jan-2024 17:24:33 UTC] Error exporting Excel: fopen(/home2/glansxfz/wwh.live/test/writable/writable/uploads/MisExport/MisController20240118172433.xlsx): Failed to open stream: No such file or directory | #0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home2/gl...', '/home2/glansxfz...', 128)
+#1 /home2/glansxfz/wwh.live/test/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/BaseWriter.php(128): fopen('/home2/glansxfz...', 'wb')
+#2 /home2/glansxfz/wwh.live/test/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(546): PhpOffice\PhpSpreadsheet\Writer\BaseWriter->openFileHandle('/home2/glansxfz...')
+#3 /home2/glansxfz/wwh.live/test/app/Controllers/applicationReportController.php(291): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save('/home2/glansxfz...')
+#4 /home2/glansxfz/wwh.live/test/system/CodeIgniter.php(932): App\Controllers\applicationReportController->exportToExcel()
+#5 /home2/glansxfz/wwh.live/test/system/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\applicationReportController))
+#6 /home2/glansxfz/wwh.live/test/system/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home2/glansxfz/wwh.live/test/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+[18-Jan-2024 17:26:46 UTC] Error exporting Excel: fopen(/home2/glansxfz/wwh.live/test/writable/writable/uploads/MisExport/MisController20240118172646.xlsx): Failed to open stream: No such file or directory | #0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(/home2/gl...', '/home2/glansxfz...', 128)
+#1 /home2/glansxfz/wwh.live/test/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/BaseWriter.php(128): fopen('/home2/glansxfz...', 'wb')
+#2 /home2/glansxfz/wwh.live/test/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php(546): PhpOffice\PhpSpreadsheet\Writer\BaseWriter->openFileHandle('/home2/glansxfz...')
+#3 /home2/glansxfz/wwh.live/test/app/Controllers/applicationReportController.php(290): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save('/home2/glansxfz...')
+#4 /home2/glansxfz/wwh.live/test/system/CodeIgniter.php(932): App\Controllers\applicationReportController->exportToExcel()
+#5 /home2/glansxfz/wwh.live/test/system/CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\applicationReportController))
+#6 /home2/glansxfz/wwh.live/test/system/CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home2/glansxfz/wwh.live/test/index.php(67): CodeIgniter\CodeIgniter->run()
+#8 {main}
+[18-Jan-2024 17:29:01 UTC] Email sent successfully
+[18-Jan-2024 17:31:40 UTC] Email sent successfully
+[22-Jan-2024 05:00:32 UTC] Email sending failed: Invalid email address: ""<br>220 smtp.gmail.com ESMTP k82-20020a628455000000b006d9a0059a9asm9448628pfd.172 - gsmtp
+<br><pre>hello: 250-smtp.gmail.com at your service, [103.53.42.51]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre><pre>starttls: 220 2.0.0 Ready to start TLS
+</pre><pre>hello: 250-smtp.gmail.com at your service, [103.53.42.51]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+</pre><pre>from: 250 2.1.0 OK k82-20020a628455000000b006d9a0059a9asm9448628pfd.172 - gsmtp
+</pre><pre>to: 555-5.5.2 Syntax error, cannot decode response. For more information, go to
+555-5.5.2  https://support.google.com/a/answer/3221692 and review RFC 5321
+555 5.5.2 specifications. k82-20020a628455000000b006d9a0059a9asm9448628pfd.172 - gsmtp
+</pre>The following SMTP error was encountered: 555-5.5.2 Syntax error, cannot decode response. For more information, go to
+555-5.5.2  https://support.google.com/a/answer/3221692 and review RFC 5321
+555 5.5.2 specifications. k82-20020a628455000000b006d9a0059a9asm9448628pfd.172 - gsmtp
+<br><pre>quit: 221 2.0.0 closing connection k82-20020a628455000000b006d9a0059a9asm9448628pfd.172 - gsmtp
+</pre>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Mon, 22 Jan 2024 05:00:30 +0000
+From: &quot;Anita&quot; &lt;anita.glansa@gmail.com&gt;
+Return-Path: &lt;anita.glansa@gmail.com&gt;
+Subject: =?UTF-8?Q?Exported=20Excel=20File?=
+Reply-To: &lt;anita.glansa@gmail.com&gt;
+User-Agent: CodeIgniter
+X-Sender: anita.glansa@gmail.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;65adf66e263e07.31754273@gmail.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/mixed; boundary=&quot;B_ATC_65adf66e264035.47855175&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ATC_65adf66e264035.47855175
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_65adf66e263fe6.86246215&quot;
+
+--B_ALT_65adf66e263fe6.86246215
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Please find the attached Excel file.
+
+
+--B_ALT_65adf66e263fe6.86246215
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Please find the attached Excel file.
+
+--B_ALT_65adf66e263fe6.86246215--
+
+
+
+--B_ATC_65adf66e264035.47855175
+Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; name=&quot;MisController20240122050030.xlsx&quot;
+Content-Disposition: attachment;
+Content-Transfer-Encoding: base64
+
+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
+c1BLBQYAAAAACwALANECAAAEFwAAAAA=
+
+--B_ATC_65adf66e264035.47855175--</pre>
+[22-Jan-2024 09:35:32 UTC] Email sent successfully
+[22-Jan-2024 09:35:36 UTC] Email sent successfully
+[22-Jan-2024 09:37:26 UTC] Email sent successfully
+[22-Jan-2024 09:44:11 UTC] Email sent successfully
+[22-Jan-2024 09:45:57 UTC] Email sent successfully
+[22-Jan-2024 09:48:53 UTC] Email sent successfully
+[22-Jan-2024 10:01:55 UTC] Email sent successfully
+[22-Jan-2024 10:03:21 UTC] Email sent successfully
+[22-Jan-2024 10:06:50 UTC] Email sent successfully
+[22-Jan-2024 10:07:40 UTC] Email sent successfully
+[22-Jan-2024 10:09:22 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\applicationReportController::export() in /home2/glansxfz/wwh.live/test/app/Controllers/applicationReportController.php on line 560
+[23-Jan-2024 04:51:58 UTC] Email sent successfully
