@@ -28,12 +28,12 @@ class Email extends BaseConfig
     /**
      * SMTP Server Address
      */
-    public  $SMTPHost = 'smtp.glansadesigns.com';
+    public  $SMTPHost = 'finexperts.glansadesigns.com';
 
     /**
      * SMTP Username
      */
-    public  $SMTPUser = 'finexperts@glansadesigns.com';
+    public  $SMTPUser = 'info@finexperts.glansadesigns.com';
 
     /**
      * SMTP Password

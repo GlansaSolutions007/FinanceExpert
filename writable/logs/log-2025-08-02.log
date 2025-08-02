@@ -4986,3 +4986,952 @@ MCBSCi9JRFs8OTk1NDI3YjIzMDIwZWMyYTdhMmQxZGU2YWFiYjRmYTQ+PDk5NTQyN2IyMzAyMGVj
 MmE3YTJkMWRlNmFhYmI0ZmE0Pl0KPj4Kc3RhcnR4cmVmCjM0NDAKJSVFT0YK
 
 --B_ATC_688dea074c27f0.63786009--</pre>
+WARNING - 2025-08-02 10:49:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:49:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:49:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:49:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:49:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:49:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:49:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$model is deprecated in APPPATH\Controllers\Miscontroller.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:49:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$agents is deprecated in APPPATH\Controllers\Miscontroller.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:49:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$commonModel is deprecated in APPPATH\Controllers\Miscontroller.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:49:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:49:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:50:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:50:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:50:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:50:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$generateInvoiceModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 371.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\agentinvoice->checkDataExists()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:50:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:50:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$invoiceModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 331.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\agentinvoice->insertInvoice()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:50:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$invoiceModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 356.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\agentinvoice->getInvoiceData()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:50:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:50:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:50:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-08-02 10:50:30 --> Email: sendWithSmtp throwed ErrorException: stream_socket_enable_crypto(): Peer certificate CN=`autoconfig.srv875743.hstgr.cloud' did not match expected CN=`smtp.glansadesigns.com' in C:\xampp\htdocs\test\system\Email\Email.php:1883
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'stream_socket_e...', 'C:\\xampp\\htdocs...', 1883)
+#1 C:\xampp\htdocs\test\system\Email\Email.php(1883): stream_socket_enable_crypto(Resource id #248, true, 121)
+#2 C:\xampp\htdocs\test\system\Email\Email.php(1782): CodeIgniter\Email\Email->SMTPConnect()
+#3 C:\xampp\htdocs\test\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithSmtp()
+#4 C:\xampp\htdocs\test\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#5 C:\xampp\htdocs\test\app\Controllers\agentinvoice.php(123): CodeIgniter\Email\Email->send()
+#6 C:\xampp\htdocs\test\app\Controllers\agentinvoice.php(87): App\Controllers\agentinvoice->sendEmail('anita.glansa@gm...', 'C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\test\system\CodeIgniter.php(932): App\Controllers\agentinvoice->savePdf()
+#8 C:\xampp\htdocs\test\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+#9 C:\xampp\htdocs\test\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\test\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2025-08-02 10:50:30 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2025-08-02 10:50:30 --> 220-srv875743.hstgr.cloud ESMTP Exim 4.98.2 #2 Sat, 02 Aug 2025 10:54:08 +0000 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+
+hello: 250-srv875743.hstgr.cloud Hello localhost [49.205.247.65]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-STARTTLS
+250 HELP
+
+starttls: 220 TLS go ahead
+
+ERROR - 2025-08-02 10:50:30 --> Email failed to send. Debug info: 220-srv875743.hstgr.cloud ESMTP Exim 4.98.2 #2 Sat, 02 Aug 2025 10:54:08 +0000 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br><pre>hello: 250-srv875743.hstgr.cloud Hello localhost [49.205.247.65]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-STARTTLS
+250 HELP
+</pre><pre>starttls: 220 TLS go ahead
+</pre>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Sat, 2 Aug 2025 10:50:29 +0000
+To: anita.glansa@gmail.com
+From: &quot;FinExpert&quot; &lt;finexperts@glansadesigns.com&gt;
+Return-Path: &lt;finexperts@glansadesigns.com&gt;
+Subject: =?UTF-8?Q?Invoice=20PDF=20Attached?=
+Reply-To: &lt;finexperts@glansadesigns.com&gt;
+User-Agent: CodeIgniter
+X-Sender: finexperts@glansadesigns.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;688ded7569baf0.91481093@glansadesigns.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/mixed; boundary=&quot;B_ATC_688ded7569bfc8.56836353&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ATC_688ded7569bfc8.56836353
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_688ded7569bf37.45407940&quot;
+
+--B_ALT_688ded7569bf37.45407940
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Please find the attached invoice PDF.
+
+
+--B_ALT_688ded7569bf37.45407940
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Please find the attached invoice PDF.
+
+--B_ALT_688ded7569bf37.45407940--
+
+
+
+--B_ATC_688ded7569bfc8.56836353
+Content-Type: application/pdf; name=&quot;invoice.pdf&quot;
+Content-Disposition: attachment;
+Content-Transfer-Encoding: base64
+
+JVBERi0xLjcKMSAwIG9iago8PCAvVHlwZSAvQ2F0YWxvZwovT3V0bGluZXMgMiAwIFIKL1BhZ2Vz
+IDMgMCBSID4+CmVuZG9iagoyIDAgb2JqCjw8IC9UeXBlIC9PdXRsaW5lcyAvQ291bnQgMCA+Pgpl
+bmRvYmoKMyAwIG9iago8PCAvVHlwZSAvUGFnZXMKL0tpZHMgWzYgMCBSCl0KL0NvdW50IDEKL1Jl
+c291cmNlcyA8PAovUHJvY1NldCA0IDAgUgovRm9udCA8PCAKL0YxIDggMCBSCi9GMiA5IDAgUgo+
+Pgo+PgovTWVkaWFCb3ggWzAuMDAwIDAuMDAwIDU5NS4yODAgODQxLjg5MF0KID4+CmVuZG9iago0
+IDAgb2JqClsvUERGIC9UZXh0IF0KZW5kb2JqCjUgMCBvYmoKPDwKL1Byb2R1Y2VyICj+/wBkAG8A
+bQBwAGQAZgAgADIALgAwAC4AMwAgACsAIABDAFAARABGKQovQ3JlYXRpb25EYXRlIChEOjIwMjUw
+ODAyMTA1MDI5KzAwJzAwJykKL01vZERhdGUgKEQ6MjAyNTA4MDIxMDUwMjkrMDAnMDAnKQo+Pgpl
+bmRvYmoKNiAwIG9iago8PCAvVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAuMDAwIDAuMDAwIDU5NS4y
+ODAgODQxLjg5MF0KL1BhcmVudCAzIDAgUgovQ29udGVudHMgNyAwIFIKPj4KZW5kb2JqCjcgMCBv
+YmoKPDwgL0ZpbHRlciAvRmxhdGVEZWNvZGUKL0xlbmd0aCAxNzM5ID4+CnN0cmVhbQp4nKVZ2XLb
+NhR991fgpdNkxoGIlUDe5N2ZRnEtpluS6TARbauVyJSSkvjveyljISmQYpTxjC2f8cW5uDj3YPFR
+hDXVqP799vIowrFAX1GEXqF3CH2AD7MjJrDSBElOccQ1oirGShJEJMNaRKjM0BTioihC9e/l/dFJ
+gpjCgkgUxxRToVEyQ6MLCIWRUHKH0LtnJ+miTP95/gElr9B5Ug/Z0rFAyOU0QZPN8mNWvgzFEYFj
+FT/F0XrcP3n9KxAqlcaCkQDleDYrs9UqxCehDBSKtsv38DjLyvRjOjtGSbZI8/s0T90AwUJTCaUj
+KKYCE6g0YQQrRpGKsLKFroipwpLCTAHnNMR8nX8p5p8yNClwI2MbKDgmUocCJyiio0iNaAQDM9ab
+Lpew0oq5dGGNNeftbLmkOI4UZCs7sj1L11k9TRcB44fThPy2GQ6qptXtnmrKWGGiQ7p5XcyyUZKV
+yxUq7tBN+rjM8vWgyljq/sp0M39+KPLs78/pY/9En/pTRDGw1Pqzmm99okavUbX4yolcOLaL68n5
+Hzfnt8k0IHMhNIzOAknKF+yFlGR0MqLH6GZRrEF2sNrHiOag/Ol4cnl+nlyhyfhyfBsamAssg/06
+ffN6/Or68u3Z+Pjqz7Pz2/HJ+Cw0AMyT266lLaO4nozegqhfIibH48uLCyaZuiV/JaFxSIxJsJGn
+a1AomqTLDAZyrXyMTkEYL5kcpEIRc6w1rA6sUtVbkmMVBVQYMUwoDSThBHiWLeZfsnKQJriC4TRD
+QmHNBCLgb5F0pAJUClxcAXewz6aLhoWEiDRMJ5aOiMJ0JfzeYiKKQyzpobpJy/X802aRlqtB9bSE
+tqtbhExKLGLdQ3g1nYym49NBfWzJTB+3uHgssQIFd3ONl8WmZhn/HWmB6XYSBDOi0BJp2QAWDpAE
+R5JWgGgDHHMRAtwYv6P8aPAuD9GKynpKBnDjT49+hdRBWVW3+L9jvAEsHOACbYgHYHIyBByWuhO7
+S8kAjdS7jijKVlpiTUIGR2oaGVpM0xWysqa4qyu0Bv/vYz4tlsv5ajUv8pp2ODQzhW3DT5eDN9eR
+hUdcBVxUDYlBL0HksGWowhVjjcQM0tYQnBhkQ2yM8gay8IgXiY2qIRKzOIgcqCTnLj4xg7S0NLQm
+1kGMEgIO0qVLezzolsftCiNOVSRkwFpAAQLy9dZiAG8tTGMGSXhr8YBxkh3AjXGQtfiUDODGb1qL
++zvrJI7WAi7QhnjAOMkOcFjq1kl8SgZopL7PWuCIQ0ToiMMOtxZIQCqyz1o6ma/hcBQyFTdRZyGu
+cA5xc3dRNcRYyC5y2AI4C6klZpC2eqw9+LWyFuL1YxEvDxtVQ4yF7CIHashaSC0xg7RU9L2mYjRw
+iKl0CqMylTiO4GxIAq7CoPbA4V3FAN5V4BQt4NbhXcUDxkR2ADfGQa7iUzKAG7/pKu7vnIlYWgu4
+QBviAWMiO8BhqTsTcSkZoJH6d1sCRGu4WoQsoUsPFFYp1hy2EYZ5FLpEJcU6XQw7khv+0JG8V8Ym
+ruN0bRXbmSEoVkSCRHsuYk8lZuAe1W7KoWiEwa0vxjH0ZOuSDERY8tBd8Okoj04f0vI+Sz8uMvT+
+2TxHX4tytnr/HAXulSwWmKnQteAC7nHol/TfB7T9lDwUm1Waz9CbPENXm3xWZjM0nX+D3xeDbnuM
+8G2JzG2PE9DoztQYq0YITW3IjchIzTFxzLZ90WAymw+r5K1CB5ck/VaVrl4sGwOrLGnIl35LF5us
+NzciIFZT4JVbbyMEFMPZzl1UgJuTGLoe1pgFj91Zvi7TBYI0ewmpBPtWwhPCBZBz1SakIOyIRD2E
+Tw8M++hsv9jim35pFd/2S0/1Gx1dD+ksPqSGWpfY3hVoyqNrAQBXcXAPqr8IBitPItg4lSeCGzgk
+3i48DKkZ6yEaMCe3yL1zcmt8+JysjVqirpcN81L0Q5MyhkE13dpc4Hmop/ld1G4l+kTRE1YTBdUK
+Exqyef3TIEk4ml5JdNNU5x9Y7z2Py1YV/ZOyqjh4UlYTlmaPJn50VtZhLF3/jtzP1j5D9siQwA4p
+I+32ZAIdECvZ3rloDBKRoZ3L25PfjWEzDv27hlZJRcHHzuwL+P4j2v70m/HF/A7A6lMCcGMr9qMS
+RaBwodROi+XnNH/8eYVqr9GDnvMlXBZAv7AGpPpJJBzUdnZzAqqXUKoA8Wa1LpZZCczTDDazagbT
++X2erjflMHM1GTAKy030TgZAjzmImwixfWrdTeGuKOu1ElGVM0yluk4Jbv8DoXr+F8gpXB5BevLp
+lBrwus36oSjnq8xOrvAP4/8DNUVCpQplbmRzdHJlYW0KZW5kb2JqCjggMCBvYmoKPDwgL1R5cGUg
+L0ZvbnQKL1N1YnR5cGUgL1R5cGUxCi9OYW1lIC9GMQovQmFzZUZvbnQgL1RpbWVzLUJvbGQKL0Vu
+Y29kaW5nIC9XaW5BbnNpRW5jb2RpbmcKPj4KZW5kb2JqCjkgMCBvYmoKPDwgL1R5cGUgL0ZvbnQK
+L1N1YnR5cGUgL1R5cGUxCi9OYW1lIC9GMgovQmFzZUZvbnQgL1RpbWVzLVJvbWFuCi9FbmNvZGlu
+ZyAvV2luQW5zaUVuY29kaW5nCj4+CmVuZG9iagoxMCAwIG9iagpbNiAwIFIgL0ZpdF0KZW5kb2Jq
+CjExIDAgb2JqCls2IDAgUiAvRml0XQplbmRvYmoKMTIgMCBvYmoKWzYgMCBSIC9GaXRdCmVuZG9i
+agoxMyAwIG9iagpbNiAwIFIgL0ZpdF0KZW5kb2JqCjE0IDAgb2JqCls2IDAgUiAvRml0XQplbmRv
+YmoKMTUgMCBvYmoKWzYgMCBSIC9GaXRdCmVuZG9iagoxNiAwIG9iagpbNiAwIFIgL0ZpdF0KZW5k
+b2JqCjE3IDAgb2JqCls2IDAgUiAvRml0XQplbmRvYmoKMTggMCBvYmoKWzYgMCBSIC9GaXRdCmVu
+ZG9iagoxOSAwIG9iagpbNiAwIFIgL0ZpdF0KZW5kb2JqCjIwIDAgb2JqCls2IDAgUiAvRml0XQpl
+bmRvYmoKMjEgMCBvYmoKWzYgMCBSIC9GaXRdCmVuZG9iagoyMiAwIG9iagpbNiAwIFIgL0ZpdF0K
+ZW5kb2JqCnhyZWYKMCAyMwowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAwMDkgMDAwMDAgbiAK
+MDAwMDAwMDA3NCAwMDAwMCBuIAowMDAwMDAwMTIwIDAwMDAwIG4gCjAwMDAwMDAyODQgMDAwMDAg
+biAKMDAwMDAwMDMxMyAwMDAwMCBuIAowMDAwMDAwNDYyIDAwMDAwIG4gCjAwMDAwMDA1NjUgMDAw
+MDAgbiAKMDAwMDAwMjM3NyAwMDAwMCBuIAowMDAwMDAyNDg1IDAwMDAwIG4gCjAwMDAwMDI1OTQg
+MDAwMDAgbiAKMDAwMDAwMjYyMyAwMDAwMCBuIAowMDAwMDAyNjUyIDAwMDAwIG4gCjAwMDAwMDI2
+ODEgMDAwMDAgbiAKMDAwMDAwMjcxMCAwMDAwMCBuIAowMDAwMDAyNzM5IDAwMDAwIG4gCjAwMDAw
+MDI3NjggMDAwMDAgbiAKMDAwMDAwMjc5NyAwMDAwMCBuIAowMDAwMDAyODI2IDAwMDAwIG4gCjAw
+MDAwMDI4NTUgMDAwMDAgbiAKMDAwMDAwMjg4NCAwMDAwMCBuIAowMDAwMDAyOTEzIDAwMDAwIG4g
+CjAwMDAwMDI5NDIgMDAwMDAgbiAKdHJhaWxlcgo8PAovU2l6ZSAyMwovUm9vdCAxIDAgUgovSW5m
+byA1IDAgUgovSURbPDNhYzk2NjgzYTE5OTE2NDY3MzY5NzkwMjI0OWQ0ZDI5PjwzYWM5NjY4M2Ex
+OTkxNjQ2NzM2OTc5MDIyNDlkNGQyOT5dCj4+CnN0YXJ0eHJlZgoyOTcxCiUlRU9GCg==
+
+--B_ATC_688ded7569bfc8.56836353--</pre>
+ERROR - 2025-08-02 10:50:30 --> Email sending failed: 220-srv875743.hstgr.cloud ESMTP Exim 4.98.2 #2 Sat, 02 Aug 2025 10:54:08 +0000 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+<br><pre>hello: 250-srv875743.hstgr.cloud Hello localhost [49.205.247.65]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-STARTTLS
+250 HELP
+</pre><pre>starttls: 220 TLS go ahead
+</pre>Unable to send email using SMTP. Your server might not be configured to send mail using this method.<br><pre>Date: Sat, 2 Aug 2025 10:50:29 +0000
+To: anita.glansa@gmail.com
+From: &quot;FinExpert&quot; &lt;finexperts@glansadesigns.com&gt;
+Return-Path: &lt;finexperts@glansadesigns.com&gt;
+Subject: =?UTF-8?Q?Invoice=20PDF=20Attached?=
+Reply-To: &lt;finexperts@glansadesigns.com&gt;
+User-Agent: CodeIgniter
+X-Sender: finexperts@glansadesigns.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: &lt;688ded7569baf0.91481093@glansadesigns.com&gt;
+Mime-Version: 1.0
+
+
+Content-Type: multipart/mixed; boundary=&quot;B_ATC_688ded7569bfc8.56836353&quot;
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ATC_688ded7569bfc8.56836353
+Content-Type: multipart/alternative; boundary=&quot;B_ALT_688ded7569bf37.45407940&quot;
+
+--B_ALT_688ded7569bf37.45407940
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Please find the attached invoice PDF.
+
+
+--B_ALT_688ded7569bf37.45407940
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Please find the attached invoice PDF.
+
+--B_ALT_688ded7569bf37.45407940--
+
+
+
+--B_ATC_688ded7569bfc8.56836353
+Content-Type: application/pdf; name=&quot;invoice.pdf&quot;
+Content-Disposition: attachment;
+Content-Transfer-Encoding: base64
+
+JVBERi0xLjcKMSAwIG9iago8PCAvVHlwZSAvQ2F0YWxvZwovT3V0bGluZXMgMiAwIFIKL1BhZ2Vz
+IDMgMCBSID4+CmVuZG9iagoyIDAgb2JqCjw8IC9UeXBlIC9PdXRsaW5lcyAvQ291bnQgMCA+Pgpl
+bmRvYmoKMyAwIG9iago8PCAvVHlwZSAvUGFnZXMKL0tpZHMgWzYgMCBSCl0KL0NvdW50IDEKL1Jl
+c291cmNlcyA8PAovUHJvY1NldCA0IDAgUgovRm9udCA8PCAKL0YxIDggMCBSCi9GMiA5IDAgUgo+
+Pgo+PgovTWVkaWFCb3ggWzAuMDAwIDAuMDAwIDU5NS4yODAgODQxLjg5MF0KID4+CmVuZG9iago0
+IDAgb2JqClsvUERGIC9UZXh0IF0KZW5kb2JqCjUgMCBvYmoKPDwKL1Byb2R1Y2VyICj+/wBkAG8A
+bQBwAGQAZgAgADIALgAwAC4AMwAgACsAIABDAFAARABGKQovQ3JlYXRpb25EYXRlIChEOjIwMjUw
+ODAyMTA1MDI5KzAwJzAwJykKL01vZERhdGUgKEQ6MjAyNTA4MDIxMDUwMjkrMDAnMDAnKQo+Pgpl
+bmRvYmoKNiAwIG9iago8PCAvVHlwZSAvUGFnZQovTWVkaWFCb3ggWzAuMDAwIDAuMDAwIDU5NS4y
+ODAgODQxLjg5MF0KL1BhcmVudCAzIDAgUgovQ29udGVudHMgNyAwIFIKPj4KZW5kb2JqCjcgMCBv
+YmoKPDwgL0ZpbHRlciAvRmxhdGVEZWNvZGUKL0xlbmd0aCAxNzM5ID4+CnN0cmVhbQp4nKVZ2XLb
+NhR991fgpdNkxoGIlUDe5N2ZRnEtpluS6TARbauVyJSSkvjveyljISmQYpTxjC2f8cW5uDj3YPFR
+hDXVqP799vIowrFAX1GEXqF3CH2AD7MjJrDSBElOccQ1oirGShJEJMNaRKjM0BTioihC9e/l/dFJ
+gpjCgkgUxxRToVEyQ6MLCIWRUHKH0LtnJ+miTP95/gElr9B5Ug/Z0rFAyOU0QZPN8mNWvgzFEYFj
+FT/F0XrcP3n9KxAqlcaCkQDleDYrs9UqxCehDBSKtsv38DjLyvRjOjtGSbZI8/s0T90AwUJTCaUj
+KKYCE6g0YQQrRpGKsLKFroipwpLCTAHnNMR8nX8p5p8yNClwI2MbKDgmUocCJyiio0iNaAQDM9ab
+Lpew0oq5dGGNNeftbLmkOI4UZCs7sj1L11k9TRcB44fThPy2GQ6qptXtnmrKWGGiQ7p5XcyyUZKV
+yxUq7tBN+rjM8vWgyljq/sp0M39+KPLs78/pY/9En/pTRDGw1Pqzmm99okavUbX4yolcOLaL68n5
+Hzfnt8k0IHMhNIzOAknKF+yFlGR0MqLH6GZRrEF2sNrHiOag/Ol4cnl+nlyhyfhyfBsamAssg/06
+ffN6/Or68u3Z+Pjqz7Pz2/HJ+Cw0AMyT266lLaO4nozegqhfIibH48uLCyaZuiV/JaFxSIxJsJGn
+a1AomqTLDAZyrXyMTkEYL5kcpEIRc6w1rA6sUtVbkmMVBVQYMUwoDSThBHiWLeZfsnKQJriC4TRD
+QmHNBCLgb5F0pAJUClxcAXewz6aLhoWEiDRMJ5aOiMJ0JfzeYiKKQyzpobpJy/X802aRlqtB9bSE
+tqtbhExKLGLdQ3g1nYym49NBfWzJTB+3uHgssQIFd3ONl8WmZhn/HWmB6XYSBDOi0BJp2QAWDpAE
+R5JWgGgDHHMRAtwYv6P8aPAuD9GKynpKBnDjT49+hdRBWVW3+L9jvAEsHOACbYgHYHIyBByWuhO7
+S8kAjdS7jijKVlpiTUIGR2oaGVpM0xWysqa4qyu0Bv/vYz4tlsv5ajUv8pp2ODQzhW3DT5eDN9eR
+hUdcBVxUDYlBL0HksGWowhVjjcQM0tYQnBhkQ2yM8gay8IgXiY2qIRKzOIgcqCTnLj4xg7S0NLQm
+1kGMEgIO0qVLezzolsftCiNOVSRkwFpAAQLy9dZiAG8tTGMGSXhr8YBxkh3AjXGQtfiUDODGb1qL
++zvrJI7WAi7QhnjAOMkOcFjq1kl8SgZopL7PWuCIQ0ToiMMOtxZIQCqyz1o6ma/hcBQyFTdRZyGu
+cA5xc3dRNcRYyC5y2AI4C6klZpC2eqw9+LWyFuL1YxEvDxtVQ4yF7CIHashaSC0xg7RU9L2mYjRw
+iKl0CqMylTiO4GxIAq7CoPbA4V3FAN5V4BQt4NbhXcUDxkR2ADfGQa7iUzKAG7/pKu7vnIlYWgu4
+QBviAWMiO8BhqTsTcSkZoJH6d1sCRGu4WoQsoUsPFFYp1hy2EYZ5FLpEJcU6XQw7khv+0JG8V8Ym
+ruN0bRXbmSEoVkSCRHsuYk8lZuAe1W7KoWiEwa0vxjH0ZOuSDERY8tBd8Okoj04f0vI+Sz8uMvT+
+2TxHX4tytnr/HAXulSwWmKnQteAC7nHol/TfB7T9lDwUm1Waz9CbPENXm3xWZjM0nX+D3xeDbnuM
+8G2JzG2PE9DoztQYq0YITW3IjchIzTFxzLZ90WAymw+r5K1CB5ck/VaVrl4sGwOrLGnIl35LF5us
+NzciIFZT4JVbbyMEFMPZzl1UgJuTGLoe1pgFj91Zvi7TBYI0ewmpBPtWwhPCBZBz1SakIOyIRD2E
+Tw8M++hsv9jim35pFd/2S0/1Gx1dD+ksPqSGWpfY3hVoyqNrAQBXcXAPqr8IBitPItg4lSeCGzgk
+3i48DKkZ6yEaMCe3yL1zcmt8+JysjVqirpcN81L0Q5MyhkE13dpc4Hmop/ld1G4l+kTRE1YTBdUK
+Exqyef3TIEk4ml5JdNNU5x9Y7z2Py1YV/ZOyqjh4UlYTlmaPJn50VtZhLF3/jtzP1j5D9siQwA4p
+I+32ZAIdECvZ3rloDBKRoZ3L25PfjWEzDv27hlZJRcHHzuwL+P4j2v70m/HF/A7A6lMCcGMr9qMS
+RaBwodROi+XnNH/8eYVqr9GDnvMlXBZAv7AGpPpJJBzUdnZzAqqXUKoA8Wa1LpZZCczTDDazagbT
++X2erjflMHM1GTAKy030TgZAjzmImwixfWrdTeGuKOu1ElGVM0yluk4Jbv8DoXr+F8gpXB5BevLp
+lBrwus36oSjnq8xOrvAP4/8DNUVCpQplbmRzdHJlYW0KZW5kb2JqCjggMCBvYmoKPDwgL1R5cGUg
+L0ZvbnQKL1N1YnR5cGUgL1R5cGUxCi9OYW1lIC9GMQovQmFzZUZvbnQgL1RpbWVzLUJvbGQKL0Vu
+Y29kaW5nIC9XaW5BbnNpRW5jb2RpbmcKPj4KZW5kb2JqCjkgMCBvYmoKPDwgL1R5cGUgL0ZvbnQK
+L1N1YnR5cGUgL1R5cGUxCi9OYW1lIC9GMgovQmFzZUZvbnQgL1RpbWVzLVJvbWFuCi9FbmNvZGlu
+ZyAvV2luQW5zaUVuY29kaW5nCj4+CmVuZG9iagoxMCAwIG9iagpbNiAwIFIgL0ZpdF0KZW5kb2Jq
+CjExIDAgb2JqCls2IDAgUiAvRml0XQplbmRvYmoKMTIgMCBvYmoKWzYgMCBSIC9GaXRdCmVuZG9i
+agoxMyAwIG9iagpbNiAwIFIgL0ZpdF0KZW5kb2JqCjE0IDAgb2JqCls2IDAgUiAvRml0XQplbmRv
+YmoKMTUgMCBvYmoKWzYgMCBSIC9GaXRdCmVuZG9iagoxNiAwIG9iagpbNiAwIFIgL0ZpdF0KZW5k
+b2JqCjE3IDAgb2JqCls2IDAgUiAvRml0XQplbmRvYmoKMTggMCBvYmoKWzYgMCBSIC9GaXRdCmVu
+ZG9iagoxOSAwIG9iagpbNiAwIFIgL0ZpdF0KZW5kb2JqCjIwIDAgb2JqCls2IDAgUiAvRml0XQpl
+bmRvYmoKMjEgMCBvYmoKWzYgMCBSIC9GaXRdCmVuZG9iagoyMiAwIG9iagpbNiAwIFIgL0ZpdF0K
+ZW5kb2JqCnhyZWYKMCAyMwowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAwMDkgMDAwMDAgbiAK
+MDAwMDAwMDA3NCAwMDAwMCBuIAowMDAwMDAwMTIwIDAwMDAwIG4gCjAwMDAwMDAyODQgMDAwMDAg
+biAKMDAwMDAwMDMxMyAwMDAwMCBuIAowMDAwMDAwNDYyIDAwMDAwIG4gCjAwMDAwMDA1NjUgMDAw
+MDAgbiAKMDAwMDAwMjM3NyAwMDAwMCBuIAowMDAwMDAyNDg1IDAwMDAwIG4gCjAwMDAwMDI1OTQg
+MDAwMDAgbiAKMDAwMDAwMjYyMyAwMDAwMCBuIAowMDAwMDAyNjUyIDAwMDAwIG4gCjAwMDAwMDI2
+ODEgMDAwMDAgbiAKMDAwMDAwMjcxMCAwMDAwMCBuIAowMDAwMDAyNzM5IDAwMDAwIG4gCjAwMDAw
+MDI3NjggMDAwMDAgbiAKMDAwMDAwMjc5NyAwMDAwMCBuIAowMDAwMDAyODI2IDAwMDAwIG4gCjAw
+MDAwMDI4NTUgMDAwMDAgbiAKMDAwMDAwMjg4NCAwMDAwMCBuIAowMDAwMDAyOTEzIDAwMDAwIG4g
+CjAwMDAwMDI5NDIgMDAwMDAgbiAKdHJhaWxlcgo8PAovU2l6ZSAyMwovUm9vdCAxIDAgUgovSW5m
+byA1IDAgUgovSURbPDNhYzk2NjgzYTE5OTE2NDY3MzY5NzkwMjI0OWQ0ZDI5PjwzYWM5NjY4M2Ex
+OTkxNjQ2NzM2OTc5MDIyNDlkNGQyOT5dCj4+CnN0YXJ0eHJlZgoyOTcxCiUlRU9GCg==
+
+--B_ATC_688ded7569bfc8.56836353--</pre>
+WARNING - 2025-08-02 10:54:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:54:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:54:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:54:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:54:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:54:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:54:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$model is deprecated in APPPATH\Controllers\Miscontroller.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$agents is deprecated in APPPATH\Controllers\Miscontroller.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$commonModel is deprecated in APPPATH\Controllers\Miscontroller.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:54:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:54:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:54:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:54:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$generateInvoiceModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 371.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\agentinvoice->checkDataExists()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:54:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$invoiceModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 331.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\agentinvoice->insertInvoice()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:54:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$invoiceModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 356.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\agentinvoice->getInvoiceData()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 10:54:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:54:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 10:54:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 10:54:51 --> Email sent successfully to anita.glansa@gmail.com
+WARNING - 2025-08-02 11:10:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:10:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:10:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:10:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 11:10:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 11:10:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$model is deprecated in APPPATH\Controllers\Miscontroller.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$agents is deprecated in APPPATH\Controllers\Miscontroller.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$commonModel is deprecated in APPPATH\Controllers\Miscontroller.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\Miscontroller->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 11:11:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 11:11:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Miscontroller::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 11:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 11:11:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 11:11:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 11:11:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$generateInvoiceModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 371.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\agentinvoice->checkDataExists()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 11:11:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 11:11:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$invoiceModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 356.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\agentinvoice->getInvoiceData()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\agentinvoice))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$model is deprecated in APPPATH\Controllers\agentinvoice.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$agents is deprecated in APPPATH\Controllers\agentinvoice.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$commonModel is deprecated in APPPATH\Controllers\agentinvoice.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2025-08-02 11:11:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$payment is deprecated in APPPATH\Controllers\agentinvoice.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(904): App\Controllers\agentinvoice->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 11:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-08-02 11:11:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\agentinvoice::$session is deprecated in APPPATH\Controllers\BaseController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(905): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+ 2 SYSTEMPATH\CodeIgniter.php(488): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2025-08-02 11:11:26 --> Email sent successfully to anita.glansa@gmail.com
