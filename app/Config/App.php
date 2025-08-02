@@ -18,8 +18,8 @@ class App extends BaseConfig
      *    http://example.com/
      */
     // public string $baseURL = 'https://finex.wwh.live/';
-    // public string $baseURL = 'https://glansadesigns.com/FinanceExpert/';
-    public string $baseURL = 'http://localhost:8080/test/';
+    public string $baseURL = 'https://finexperts.glansadesigns.com/';
+    // public string $baseURL = 'http://localhost:8080/test/';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
