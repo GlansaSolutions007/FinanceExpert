@@ -95,33 +95,38 @@ namespace App\Controllers;
 
 
     public function sendEmail($to, $attachmentPath)
-    {
-        try {
-            // Load the email library
-            $emailLibrary = \Config\Services::email();
-            
-            // Set the email parameters
-            $emailLibrary->setTo($to);
-            $emailLibrary->setFrom('anita.glansa@gmail.com', 'anita'); // Set the sender's email and name
-            $emailLibrary->setSubject('Invoice');
-            $emailLibrary->setMessage("Your email message.");
-    
-            // Attach the file to the email
-            $emailLibrary->attach($attachmentPath);
-    
-            // Send the email
-            if ($emailLibrary->send()) {
-                return true;
-            } else {
-                log_message('error', 'Email sending failed: ' . $emailLibrary->printDebugger(['headers']));
-                return false;
-            }
-    
-        } catch (\Exception $e) {
-            log_message('error', 'Email sending exception: ' . $e->getMessage());
+{
+    try {
+        // Load the email service
+        $email = \Config\Services::email();
+
+        // Set email parameters
+        $email->setTo($to);
+        $email->setFrom('anita.glansa@gmail.com', 'Anita');
+        $email->setSubject('Invoice PDF Attached');
+        $email->setMessage("Please find the attached invoice PDF.");
+
+        // Attach the PDF
+        $email->attach($attachmentPath);
+
+        // Attempt to send email
+        if ($email->send()) {
+            log_message('info', 'Email sent successfully to ' . $to);
+            return true;
+        } else {
+            // Log email debug info
+            $debug = $email->printDebugger(['headers', 'subject', 'body']);
+            log_message('error', 'Email failed to send. Debug info: ' . print_r($debug, true));
             return false;
         }
+
+    } catch (\Exception $e) {
+        // Catch and log any exceptions
+        log_message('error', 'Email Exception: ' . $e->getMessage());
+        return false;
     }
+}
+
     
     public function exportToExcel()
 {
