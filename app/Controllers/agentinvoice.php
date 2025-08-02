@@ -88,8 +88,18 @@ namespace App\Controllers;
             // Respond to the client with the path to the saved PDF
             return $this->response->setJSON(['pdf_path' => $pdfPath]);
         } else {
-            // Failed to send email
-            return $this->response->setJSON(['error' => 'Failed to send email']);
+            // Get detailed debug info
+            $emailLibrary = \Config\Services::email();
+            $debugInfo = $emailLibrary->printDebugger(['headers', 'subject', 'body']);
+            
+            // Log the error message
+            log_message('error', 'Email sending failed: ' . $debugInfo);
+
+            // Return the debug info in JSON (for development only)
+            return $this->response->setJSON([
+                'error' => 'Failed to send email',
+                'debug' => $debugInfo
+            ]);
         }
     }
 
